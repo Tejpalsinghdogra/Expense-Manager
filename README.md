@@ -98,5 +98,5 @@ Enter your choice: 5
 Program ended successfully
 
 Author
-Tejpalsinghdogra
+Tejpal Singh Dogra
 B.Tech CSE, GNA University
